@@ -8,7 +8,7 @@ export default function index({data}) {
   // console.log(process.env.Base_Url)
   //را بیاوریم در سمت کلاینت به آن متغیر دسترسی داریم NEXT_PUBLIC_ ، .env  اما وقتی در ابتدای نام متغیر در فایل
   //حال در مرورگر مقدار متغیر نمایش داده می شود
-  console.log(process.env.NEXT_PUBLIC_Name)
+  // console.log(process.env.NEXT_PUBLIC_Name)
   return (
     <>
     <MenuPage menu={data}/>
