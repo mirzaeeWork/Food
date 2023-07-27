@@ -1,4 +1,4 @@
-import style from "./Layout.module.css"
+// import style from "./Layout.module.css"
 import Link from "next/link"
 
 export default function Layout({ children }) {
